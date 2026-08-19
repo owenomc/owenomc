@@ -10,7 +10,8 @@
   <a href="https://owencrandall.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-owencrandall.vercel.app-black?style=flat-square" /></a>
   <a href="https://linkedin.com/in/owen-crandall"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/owencrandall"><img src="https://img.shields.io/badge/X-@owencrandall-000000?style=flat-square&logo=x&logoColor=white" /></a
-  ><a href="https://youtube.com/@owenomc"><img src="https://img.shields.io/badge/YouTube-@owenomc-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  ><a href="https://youtube.com/@owenomc"><img src="https://img.shields.io/badge/YouTube-@owenomc-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a
+  ><a href="https://beacons.ai/owenomc"><img src="https://img.shields.io/badge/Beacons-@owenomc-6C5CE7?style=flat-square&logo=linktree&logoColor=white" /></a>
 </p>
 
 ---
@@ -18,11 +19,10 @@
 ### 🚀 What I'm building
 
 - **[Wealtho](https://wealtho.app)** — AI-powered personal finance platform. Sole founder and engineer: UX, backend architecture, database schema, and CI/CD. Uses the OpenAI API to turn raw transaction data into personalized financial coaching through a gamified interface. Built with Next.js, Supabase, and Stripe.
-- **[K'Boys Kare](https://kboyskare.com)** — Web platform for a 501(c)(3) pediatric cardiac nonprofit, with donation workflows, program pages, and community engagement features. Built with Next.js, deployed on Vercel.
 
 ### 💼 Experience
 
-**Software Engineer @ Shyne Bright Services** — a production medical transportation platform. Owned features end-to-end from Figma design through deployment: authentication, profiles, ride scheduling, and real-time workflows in React, Node.js, and Firebase, on a weekly release cycle.
+**Software Engineer @ Shyne Bright Services LLC** — a production medical transportation platform. Owned features end-to-end from Figma design through deployment: authentication, profiles, ride scheduling, and real-time workflows in React, Node.js, and Firebase, on a weekly release cycle.
 
 ### 🎓 Education
 
@@ -40,17 +40,15 @@ B.S. Computer Science, University of Minnesota Duluth (2023–2026). ABET-accred
 
 ### 🏅 Beyond the code
 
-- Eagle Scout — top 4% of scouts nationwide, led multi-month community projects and volunteer teams
+- Eagle Scout
 - Competitive runner — marathon PR 3:56, mile PR 4:39
-- Website Lead, Bulldog Rocketry Club
+- Competitive gaming — 12,500 Trophies in Clash Royale, Town Hall Level 16 in Clash of Clans, Level 43 in Pokemon Go, Level 45 in Pokemon TCGP, Champ 2 in Rocket League, Diamond in Apex Legends, Gold in Valorant, Platinum in Overwatch
+- Favorite Story Games — Elden Ring, Cyberpunk 2077, Hogwartz Legacy, Terraria, Valheim, Palworld, Satisfactory, Subnautica, Hollow Knight: Silksong, Detroit: Decome Human
+- Friendslop — Among Us, Big Walk, Peak, Liar's Bar
+- [Steam Profile](https://steamcommunity.com/profiles/76561199161566396/)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owenomc&show_icons=true&theme=default&hide_title=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owenomc&hide_title=true" height="165" />
-</p>
-
-<p align="center">
-  <em>Open to SWE roles, startups, and ambitious projects — <a href="mailto:owenmcrandall@gmail.com">let's build something</a>.</em>
+  <em>Open to SWE roles, startups, and ambitious projects — <a href="https://mail.google.com/mail/?view=cm&fs=1&to=owenmcrandall@gmail.com" target="_blank" rel="noopener noreferrer">let's build something</a>.</em>
 </p>
