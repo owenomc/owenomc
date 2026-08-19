@@ -26,7 +26,7 @@
 
 ### 🎓 Education
 
-B.S. Computer Science, University of Minnesota Duluth (2023–2026). ABET-accredited coursework in AI, Software Engineering, Computer Security, Database Management, Operating Systems, and Mobile UX.
+B.S. Computer Science (2023–2026). ABET-accredited coursework in AI, Software Engineering, Computer Security, Database Management, Operating Systems, and Mobile UX.
 
 ### 🛠️ Tech Stack
 
@@ -44,8 +44,6 @@ B.S. Computer Science, University of Minnesota Duluth (2023–2026). ABET-accred
 - Competitive runner — marathon PR 3:56, mile PR 4:39
 - Competitive gaming — 12,500 Trophies in Clash Royale, Town Hall Level 16 in Clash of Clans, Level 43 in Pokemon Go, Level 45 in Pokemon TCGP, Champ 2 in Rocket League, Diamond in Apex Legends, Gold in Valorant, Platinum in Overwatch
 - Favorite Story Games — Elden Ring, Cyberpunk 2077, Hogwartz Legacy, Terraria, Valheim, Palworld, Satisfactory, Subnautica, Hollow Knight: Silksong, Detroit: Decome Human
-- Friendslop — Among Us, Big Walk, Peak, Liar's Bar
-- [Steam Profile](https://steamcommunity.com/profiles/76561199161566396/)
 
 ---
 
