@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Owen 👋</h1>
 
-<h3 align="center">Full-Stack Software Engineer • Minneapolis, MN</h3>
+<h3 align="center">Software Engineer • Minneapolis, MN</h3>
 
 <p align="center">
-  Building end-to-end web and mobile products, from backend architecture to shipped UI. Currently deep in AI-integrated SaaS.
+  Building end-to-end web and mobile products, from backend architecture and AI integration to shipped UI.
 </p>
 
 <p align="center">
