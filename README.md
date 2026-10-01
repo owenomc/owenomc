@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Owen 👋</h1>
 
-<h3 align="center">Software Engineer • Minneapolis, MN</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   Building end-to-end web and mobile products, from backend architecture and AI integration to shipped UI.
@@ -42,8 +42,8 @@ B.S. Computer Science (2023–2026). ABET-accredited coursework in AI, Software 
 
 - Eagle Scout
 - Competitive runner — marathon PR 3:56, mile PR 4:39
-- Competitive gaming — 14,000 Trophies in Clash Royale, Town Hall Level 16 in Clash of Clans, Level 43 in Pokemon Go, Level 45 in Pokemon TCGP, Champ 2 in Rocket League, Diamond in Apex Legends, Gold in Valorant, Platinum in Overwatch
-- Favorite Story Games — Elden Ring, Cyberpunk 2077, Hogwartz Legacy, Terraria, Valheim, Palworld, Satisfactory, Subnautica, Hollow Knight: Silksong, Detroit: Decome Human
+- Competitive gaming — 14,000 Trophies in Clash Royale, Town Hall Level 16 in Clash of Clans, Level 43 in Pokémon Go, Level 45 in Pokémon TCGP, Champ 2 in Rocket League, Diamond in Apex Legends, Gold in Valorant, Platinum in Overwatch
+- Favorite Story Games — Elden Ring, Cyberpunk 2077, Hogwarts Legacy, Terraria, Valheim, Palworld, Satisfactory, Subnautica, Hollow Knight: Silksong, Detroit: Become Human
 
 ---
 
