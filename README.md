@@ -22,11 +22,11 @@
 
 ### 💼 Experience
 
-**Software Engineer @ Shyne Bright Services LLC** — a production medical transportation platform. Owned features end-to-end from Figma design through deployment: authentication, profiles, ride scheduling, and real-time workflows in React, Node.js, and Firebase, on a weekly release cycle.
+**Software Engineer @ Shyne Bright Services LLC** — Medical transportation platform. Owned features end-to-end from Figma design through deployment: authentication, profiles, ride scheduling, and real-time workflows in React, Node.js, and Firebase, on a weekly release cycle.
 
 ### 🎓 Education
 
-B.S. Computer Science (2023–2026). ABET-accredited coursework in AI, Software Engineering, Computer Security, Database Management, Operating Systems, and Mobile UX.
+**B.S. Computer Science (2023–2026)** — ABET-accredited coursework in AI, Software Engineering, Computer Security, Database Management, Operating Systems, and Mobile UX.
 
 ### 🛠️ Tech Stack
 
