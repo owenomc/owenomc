@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Owen 👋</h1>
 
-<h3 align="center">Software Engineer</h3>
+<h2 align="center">Software Engineer</h2>
 
 <p align="center">
   Building end-to-end web and mobile products, from backend architecture and AI integration to shipped UI.
